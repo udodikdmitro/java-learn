@@ -1,6 +1,6 @@
 package nineLessons;
 
-public class whileDo {
+public class WhileDo {
     public static void main(String[] args) {
         int finalBalance = 100000;
         double currentBalance = 0;

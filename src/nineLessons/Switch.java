@@ -3,7 +3,7 @@ package nineLessons;
 public class Switch {
     public static void main(String[] args) {
         String dayOfTheWeek="Wednesday";
-        switch (dayOfTheWeek) {
+        switch (dayOfTheWeek.toLowerCase()) {
             case "Monday":
                 System.out.println("The first working day");
                 break;

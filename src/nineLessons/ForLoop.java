@@ -1,6 +1,6 @@
 package nineLessons;
 
-public class forLoop {
+public class ForLoop {
     public static void main(String[] args) {
         int factorialLimit = 10;
         int factorial = 1;
